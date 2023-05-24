@@ -10,7 +10,7 @@ package praktek001;
  */
 public class MahasiswaaAksi {
     public static void main(String[] args) {
-        Mahasiswa Harry = new Mahasiswa();
+        Mahasiswaa Harry = new Mahasiswaa();
         
         Harry.nama="Harry Potter";
         Harry.NPM="19639999";
