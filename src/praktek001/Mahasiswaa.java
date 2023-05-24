@@ -9,5 +9,13 @@ package praktek001;
  * @author asus
  */
 public class Mahasiswaa {
+    String nama;
+    String NPM;
+    double IPK;
     
+    void cetakInfo(){
+        System.out.println("Nama :"+nama);
+        System.out.println("NPM :"+NPM);
+        System.out.println("IPK :"+IPK);
+    }   
 }
